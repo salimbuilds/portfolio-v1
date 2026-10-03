@@ -1,4 +1,4 @@
-<img width="1617" height="873" alt="image" src="https://github.com/user-attachments/assets/0ec17f15-6970-43f8-9428-c830b393b93e" /># Kwizera Salim | Portfolio
+# Kwizera Salim | Portfolio
 
 My personal portfolio website, built to show who I am, what I build, and how to reach me.
 
