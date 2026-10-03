@@ -6,7 +6,7 @@ const projects = [
     description:"Detailed portfolio about me.",
     tech:"HTML  . CSS . Tailwind . Javascript",
     image:"/projects/portfolio.png",
-    live:"https://example.com",
+    live:"https://kwizera-salim.vercel.app",
     code:"https://github.com/salimbuilds/portfolio-v1"
 
 
