@@ -21,6 +21,16 @@ const projects = [
     code:"https://github.com/salimbuilds/Movie-search"
 
 
+    },
+         {
+    title :"weather app",
+    description:"Movie Search site",
+    tech:"HTML  . . Tailwind . Javascript . Flowbite",
+    image:"/projects/weather.png",
+    live:"https://salim-weather-app.vercel.app/",
+    code:"https://github.com/salimbuilds/ weatherApp"
+
+
     }
     
     ,
