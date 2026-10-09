@@ -16,7 +16,7 @@ const projects = [
     title :"Movie Search",
     description:"Movie Search site",
     tech:"HTML  . CSS . Tailwind . Javascript . daisyUi",
-    image:"/projects/pmovieSearch.png",
+    image:"/projects/movieSearch.png",
     live:"https://https://salim-movies.vercel.app/",
     code:"https://github.com/salimbuilds/Movie-search"
 
